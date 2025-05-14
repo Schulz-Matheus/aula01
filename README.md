@@ -1,2 +1,2 @@
-# aula01
-Criando um repositorio
+# Aula 01
+Criando meu primeiro repositorio no GitHub
